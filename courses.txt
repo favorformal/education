@@ -1,0 +1,14 @@
+current focus:
+
+courses:
+    - web development
+    - investing
+    - data science
+    - math
+
+cheatsheets:
+    - VSCode
+    - MacOS
+    - Google Drive
+    - Windows
+    - Nvim & Neovim
